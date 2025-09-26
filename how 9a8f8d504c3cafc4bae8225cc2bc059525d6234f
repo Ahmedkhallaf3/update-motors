@@ -1,0 +1,53 @@
+[33mcommit 0aedf1a8b37d2466e8d7bd78484c2b00f7721700[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Mon May 12 07:34:18 2025 +0000
+
+    Added icon and localization for Kilometer Field Status toggle
+
+[33mcommit dd9c7db0df2efb4ed1bc8fb4d363907ace4ab8dc[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Mon May 12 07:04:49 2025 +0000
+
+    Fixed ad image upload, added car options feature, and cleaned old car features
+
+[33mcommit fa744016a67b2f972f5e0c57ff46ef7eab22a40d[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Sun May 11 06:28:12 2025 +0000
+
+    Add full car option support: creation, retrieval, and update
+
+[33mcommit 9a8f8d504c3cafc4bae8225cc2bc059525d6234f[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Sun May 11 00:27:32 2025 +0000
+
+    Added field_type to CategoryFieldValue model and adjusted relationships
+
+[33mcommit 92b1aada1023785d463a687f0e6d4280586e9cf6[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Sat May 10 09:00:26 2025 +0000
+
+    تعديل دالة update لإصلاح مشكلة التعديل بالقيم، وتحديث الواجهة
+
+[33mcommit 6762d8cd360604b5d026846d3a9b90a7e4701f10[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Fri May 9 12:12:39 2025 +0000
+
+    Add AR/EN car models to adsByAdsId API and new category/ads images
+
+[33mcommit cf2877b5df5a7703dabc6baae457e8e175280423[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Fri May 9 10:23:02 2025 +0000
+
+    Add .gitignore and remove motors.zip
+
+[33mcommit e4b6ecda7649945068e41f274a911ca65f3462a3[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Fri May 9 10:17:04 2025 +0000
+
+    Remove large file
+
+[33mcommit cf2c9f029d37ccfa8c1ccf19073858f2143eb4e9[m
+Author: coldjam44 <mustafaanwar93@gmail.com>
+Date:   Fri May 9 10:15:02 2025 +0000
+
+    Initial commit
